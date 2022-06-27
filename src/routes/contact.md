@@ -1,6 +1,6 @@
 ---
 label: Contact
 title: Contact Us
+nav_label: " "
 ---
-
-This is where the contact form will go
+bonjour je suis CMS
